@@ -1,0 +1,182 @@
+ *{
+	margin: 0;
+	padding: 0;
+}
+.wrapper{
+	width: 1170px;
+	margin:auto;
+}
+header{
+	background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("https://exponentwptheme.com/finance/wp-content/uploads/sites/19/2018/11/Service-6.jpg");
+	height: 100vh;
+	background-size:cover;
+	background-position: center center;
+	position: relative;
+}
+.nav-area{
+	float: left;
+	list-style: none;
+	margin-top: 35px;
+	font-family:"proxima-nova",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;
+	
+}
+.nav-area li{
+	display: inline-block;
+	font-size: 30px;
+}
+.nav-area li a{
+	color: #fff;
+	text-decoration: none;
+	padding:1px 50px;
+	font-family:poppins;
+	font-size: 15px;
+}
+.nav-area li a:hover{
+	background: #fff;
+	color: #333;
+}
+.welcome-text{
+	position: absolute;
+	width: 600px;
+	height: 300px;
+	margin:17% 13%;
+	text-align: left;
+	font-color: white;
+}
+.welcome-text h6 {
+	text-align: left;
+	color: white;
+	z-index: 5;
+    	min-width: 541px;
+    	max-width: 541px;
+    	white-space: normal;
+   	font-size: 46px;
+        line-height: 54px;
+    font-weight: 300;
+    color: rgb(255, 255, 255);
+    letter-spacing: 0px;
+    visibility: inherit;
+    transition: none 0s ease 0s;
+    text-align: inherit;
+    border-width: 0px;
+    margin: 0px;
+    padding: 0px;
+    min-height: 0px;
+    max-height: none;
+    opacity: 1;
+    transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+    transform-origin: 50% 50% 0px;
+	font-family:"proxima-nova",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;
+}
+.welcome-text p{
+	text-align: left;
+	color: white;
+	font-size: 20px;
+	line-height: 1.6;
+	font-family:"proxima-nova",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;
+}
+.welcome-text a{
+border: 1px solid black;
+background-color:black;
+color:white;
+padding:10px 25px;
+font-size:14px;
+margin-top:20px;
+text-decoration:none;
+display:inline-block;
+text-tranform:uppercase;
+font-family:"proxima-nova",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;
+}
+.text h5{
+font-family: "proxima-nova",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 35px;
+    text-transform: none;
+    letter-spacing: -0.008em;
+    line-height: 49px;
+    color: black;
+
+}
+.text p{
+text-align: left;
+	color: white;
+	z-index: 5;
+    	min-width: 541px;
+    	max-width: 541px;
+    	white-space: normal;
+   	font-size: 46px;
+        line-height: 54px;
+    font-weight: 300;
+    color: rgb(255, 255, 255);
+    letter-spacing: 0px;
+    visibility: inherit;
+    transition: none 0s ease 0s;
+    text-align: inherit;
+    border-width: 0px;
+    margin: 0px;
+    padding: 0px;
+    min-height: 0px;
+    max-height: none;
+    opacity: 1;
+    transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+    transform-origin: 50% 50% 0px;
+	font-family:"proxima-nova",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;
+
+}
+.man{
+height: 20vh;
+	
+	background-position: right;
+	position: relative;
+margin:1000px 1000px;
+}
+*{
+padding:0;
+margin:0;
+}
+.footer-container{
+padding-bottom:4rem;
+margin-left:50 px;
+}
+.footer{
+width:80%;
+height:40vh;
+color:black;
+display:flex;
+justify-content:center;
+flex-wrap:wrap;
+margin:0 auto;
+}
+.footer-heading{
+display:flex;
+flex-direction:column;
+margin-right:4 rem;
+}
+footer-heading h2{
+margin-bootom:2rem;
+}
+footer heading a{
+color:black;
+text-decoration:none;
+margin-bottom:0.5rem;
+}
+.column h3{
+font-size:20px;
+text-align:center;
+}
+.column p{
+font-size:15px;
+text-align:center;
+}
+.row h3{
+font-size:30px;
+}
+.row p{
+font-size:30px;
+}
+
+		
+
+
+	
